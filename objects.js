@@ -3,7 +3,9 @@
 
 // 1. countWords
 function countWords(phrase) {
-  // Replace this with your code
+  const word_dict = {}
+
+  
 }
 
 
